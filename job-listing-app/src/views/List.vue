@@ -28,7 +28,7 @@
 
 <template>
   <div class="max-w-7xl m-auto p-2">
-    <h1>List Page</h1>
+    <h1 class="text-3xl mb-3 py-4 border-b-1 border-gray-300">Available jobs</h1>
     <div v-if="loading" class="w-10 h-10 rounded-full border-4 border-gray-200 border-t-blue-900 animate-spin m-auto"></div>
   </div>
 </template>
