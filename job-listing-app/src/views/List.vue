@@ -22,5 +22,7 @@
 </script>
 
 <template>
-  <h1>List Page</h1>
+  <div class="max-w-7xl m-auto p-2">
+    <h1>List Page</h1>
+  </div>
 </template>
